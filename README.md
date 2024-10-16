@@ -60,3 +60,13 @@
 
 ![hello-world](netology-web.png)
 
+
+------
+###   вывода команд `kubectl get pods`
+![Screenshot_1](Screenshot_1.png.png)
+
+### Ссылки манифестов 
+
+[hello-world-pod](https://github.com/v1us1885/k8s-1.2/blob/main/hello-world-pod.yaml)
+[netology-web-pod](https://github.com/v1us1885/k8s-1.2/blob/main/netology-web-pod.yaml)
+[netology-svc](https://github.com/v1us1885/k8s-1.2/blob/main/netology-svc.yaml)
